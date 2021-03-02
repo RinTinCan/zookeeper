@@ -209,6 +209,7 @@ span.review-categories > span.zk-hidden {
     font-weight: normal;
     padding-top: 4px;
     padding-bottom: 4px;
+    white-space: nowrap;
 }
 .home-onnow > label {
     font-weight: bold;
